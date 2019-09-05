@@ -3,7 +3,7 @@ A Java graphical user interface that demonstrates some of the properties and alg
 
 # How to use:
 
-## Adding vertices: 
+### Adding vertices: 
 Select "Add Vertex" and click on the screen wherever you would like to place a vertex.
 
 # Adding edges: 
