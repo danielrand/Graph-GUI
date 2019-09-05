@@ -1,5 +1,5 @@
 # Graph-GUI
-A Java graphical user interface that demonstrates some of the properties and algorithms of the graph data type. You can add and remove edges and vertices, as well as move vertices around to make the graph more easily legible. Additional features include adding all edges automatically, as well as highlighting the seperate connected components of the graph as well as the cut vertices
+A Java graphical user interface that demonstrates some of the properties and algorithms of the graph data type. You can add and remove edges and vertices, as well as move vertices around to make the graph more easily legible. Additional features include adding all edges automatically, as well as highlighting the seperate connected components of the graph as well as the cut vertices.
 
 # How to use:
 
